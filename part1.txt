@@ -1,0 +1,300 @@
+00:00:00.160 --> 00:00:04.550
+Sorry, Leandro. Okay, so I will start.
+
+00:00:04.550 --> 00:00:04.560
+Sorry, Leandro. Okay, so I will start.
+
+00:00:04.560 --> 00:00:07.269
+Sorry, Leandro. Okay, so I will start. But first, let me introduce myself. Uh,
+
+00:00:07.269 --> 00:00:07.279
+But first, let me introduce myself. Uh,
+
+00:00:07.279 --> 00:00:10.310
+But first, let me introduce myself. Uh, my name is Alexander Julie and uh, so
+
+00:00:10.310 --> 00:00:10.320
+my name is Alexander Julie and uh, so
+
+00:00:10.320 --> 00:00:13.030
+my name is Alexander Julie and uh, so you can call me Alex just for
+
+00:00:13.030 --> 00:00:13.040
+you can call me Alex just for
+
+00:00:13.040 --> 00:00:18.470
+you can call me Alex just for simplicity. And in Oro at Oro, I act in
+
+00:00:18.470 --> 00:00:18.480
+simplicity. And in Oro at Oro, I act in
+
+00:00:18.480 --> 00:00:20.950
+simplicity. And in Oro at Oro, I act in following roles as a senior software
+
+00:00:20.950 --> 00:00:20.960
+following roles as a senior software
+
+00:00:20.960 --> 00:00:23.830
+following roles as a senior software engineer also on some of the projects
+
+00:00:23.830 --> 00:00:23.840
+engineer also on some of the projects
+
+00:00:23.840 --> 00:00:28.230
+engineer also on some of the projects act as a project lead and also as a as a
+
+00:00:28.230 --> 00:00:28.240
+act as a project lead and also as a as a
+
+00:00:28.240 --> 00:00:31.990
+act as a project lead and also as a as a trainer. Uh so I'm from Ukraine uh and
+
+00:00:31.990 --> 00:00:32.000
+trainer. Uh so I'm from Ukraine uh and
+
+00:00:32.000 --> 00:00:35.350
+trainer. Uh so I'm from Ukraine uh and I've been working with OR for around six
+
+00:00:35.350 --> 00:00:35.360
+I've been working with OR for around six
+
+00:00:35.360 --> 00:00:37.910
+I've been working with OR for around six u six six years.
+
+00:00:37.910 --> 00:00:37.920
+u six six years.
+
+00:00:37.920 --> 00:00:41.510
+u six six years. Um so there are a couple of uh links uh
+
+00:00:41.510 --> 00:00:41.520
+Um so there are a couple of uh links uh
+
+00:00:41.520 --> 00:00:46.150
+Um so there are a couple of uh links uh related to myself. So feel free to check
+
+00:00:46.150 --> 00:00:46.160
+related to myself. So feel free to check
+
+00:00:46.160 --> 00:00:49.670
+related to myself. So feel free to check them if you would like. Uh so in this uh
+
+00:00:49.670 --> 00:00:49.680
+them if you would like. Uh so in this uh
+
+00:00:49.680 --> 00:00:52.150
+them if you would like. Uh so in this uh orcommerce we have Orocommerce uh
+
+00:00:52.150 --> 00:00:52.160
+orcommerce we have Orocommerce uh
+
+00:00:52.160 --> 00:00:55.110
+orcommerce we have Orocommerce uh technical training and in this training
+
+00:00:55.110 --> 00:00:55.120
+technical training and in this training
+
+00:00:55.120 --> 00:00:57.189
+technical training and in this training or in this course
+
+00:00:57.189 --> 00:00:57.199
+or in this course
+
+00:00:57.199 --> 00:01:00.549
+or in this course uh the idea is uh to understand uh
+
+00:01:00.549 --> 00:01:00.559
+uh the idea is uh to understand uh
+
+00:01:00.559 --> 00:01:03.270
+uh the idea is uh to understand uh Oracle how orcommerce application
+
+00:01:03.270 --> 00:01:03.280
+Oracle how orcommerce application
+
+00:01:03.280 --> 00:01:06.230
+Oracle how orcommerce application functions uh some of each uh technical
+
+00:01:06.230 --> 00:01:06.240
+functions uh some of each uh technical
+
+00:01:06.240 --> 00:01:10.550
+functions uh some of each uh technical features uh some of uh best practices
+
+00:01:10.550 --> 00:01:10.560
+features uh some of uh best practices
+
+00:01:10.560 --> 00:01:14.550
+features uh some of uh best practices which we uh um faced with and recommend
+
+00:01:14.550 --> 00:01:14.560
+which we uh um faced with and recommend
+
+00:01:14.560 --> 00:01:19.270
+which we uh um faced with and recommend to follow. uh also I will uh describe uh
+
+00:01:19.270 --> 00:01:19.280
+to follow. uh also I will uh describe uh
+
+00:01:19.280 --> 00:01:22.310
+to follow. uh also I will uh describe uh points of uh
+
+00:01:22.310 --> 00:01:22.320
+points of uh
+
+00:01:22.320 --> 00:01:25.190
+points of uh extendability and how uh application
+
+00:01:25.190 --> 00:01:25.200
+extendability and how uh application
+
+00:01:25.200 --> 00:01:28.710
+extendability and how uh application could be uh customized.
+
+00:01:28.710 --> 00:01:28.720
+could be uh customized.
+
+00:01:28.720 --> 00:01:33.190
+could be uh customized. Uh the process itself it will take us uh
+
+00:01:33.190 --> 00:01:33.200
+Uh the process itself it will take us uh
+
+00:01:33.200 --> 00:01:36.710
+Uh the process itself it will take us uh uh 4 days. Uh within it we will uh each
+
+00:01:36.710 --> 00:01:36.720
+uh 4 days. Uh within it we will uh each
+
+00:01:36.720 --> 00:01:41.670
+uh 4 days. Uh within it we will uh each day we will uh have up to uh 6 hours. Uh
+
+00:01:41.670 --> 00:01:41.680
+day we will uh have up to uh 6 hours. Uh
+
+00:01:41.680 --> 00:01:46.550
+day we will uh have up to uh 6 hours. Uh one second I will admit uh uh 6 hours
+
+00:01:46.550 --> 00:01:46.560
+one second I will admit uh uh 6 hours
+
+00:01:46.560 --> 00:01:48.950
+one second I will admit uh uh 6 hours per day. Up to six hours per day. Yep.
+
+00:01:48.950 --> 00:01:48.960
+per day. Up to six hours per day. Yep.
+
+00:01:48.960 --> 00:01:52.469
+per day. Up to six hours per day. Yep. And uh it will be mostly uh functional
+
+00:01:52.469 --> 00:01:52.479
+And uh it will be mostly uh functional
+
+00:01:52.479 --> 00:01:54.469
+And uh it will be mostly uh functional topics though we will also cover some
+
+00:01:54.469 --> 00:01:54.479
+topics though we will also cover some
+
+00:01:54.479 --> 00:01:57.910
+topics though we will also cover some technical details as well. Uh after each
+
+00:01:57.910 --> 00:01:57.920
+technical details as well. Uh after each
+
+00:01:57.920 --> 00:02:01.030
+technical details as well. Uh after each uh uh topic we will have questions and
+
+00:02:01.030 --> 00:02:01.040
+uh uh topic we will have questions and
+
+00:02:01.040 --> 00:02:05.350
+uh uh topic we will have questions and answers uh uh session. Uh and this is
+
+00:02:05.350 --> 00:02:05.360
+answers uh uh session. Uh and this is
+
+00:02:05.360 --> 00:02:08.389
+answers uh uh session. Uh and this is mostly for uh some immediate uh
+
+00:02:08.389 --> 00:02:08.399
+mostly for uh some immediate uh
+
+00:02:08.399 --> 00:02:11.430
+mostly for uh some immediate uh questions uh that you have. Uh for that
+
+00:02:11.430 --> 00:02:11.440
+questions uh that you have. Uh for that
+
+00:02:11.440 --> 00:02:14.869
+questions uh that you have. Uh for that we will use uh I recommend to use either
+
+00:02:14.869 --> 00:02:14.879
+we will use uh I recommend to use either
+
+00:02:14.879 --> 00:02:18.550
+we will use uh I recommend to use either chat or you can unmute yourself and uh
+
+00:02:18.550 --> 00:02:18.560
+chat or you can unmute yourself and uh
+
+00:02:18.560 --> 00:02:21.990
+chat or you can unmute yourself and uh uh ask uh questions uh
+
+00:02:21.990 --> 00:02:22.000
+uh ask uh questions uh
+
+00:02:22.000 --> 00:02:26.390
+uh ask uh questions uh uh by voice and uh so uh at the end of
+
+00:02:26.390 --> 00:02:26.400
+uh by voice and uh so uh at the end of
+
+00:02:26.400 --> 00:02:29.430
+uh by voice and uh so uh at the end of each uh uh session of each day I will
+
+00:02:29.430 --> 00:02:29.440
+each uh uh session of each day I will
+
+00:02:29.440 --> 00:02:32.790
+each uh uh session of each day I will also share those slides which we covered
+
+00:02:32.790 --> 00:02:32.800
+also share those slides which we covered
+
+00:02:32.800 --> 00:02:34.869
+also share those slides which we covered uh during the day and they will be
+
+00:02:34.869 --> 00:02:34.879
+uh during the day and they will be
+
+00:02:34.879 --> 00:02:38.790
+uh during the day and they will be shared via email with you.
+
+00:02:38.790 --> 00:02:38.800
+shared via email with you.
+
+00:02:38.800 --> 00:02:43.750
+shared via email with you. Uh so we have um a oral community uh
+
+00:02:43.750 --> 00:02:43.760
+Uh so we have um a oral community uh
+
+00:02:43.760 --> 00:02:46.550
+Uh so we have um a oral community uh slack and uh please feel free to use it
+
+00:02:46.550 --> 00:02:46.560
+slack and uh please feel free to use it
+
+00:02:46.560 --> 00:02:48.949
+slack and uh please feel free to use it if you have uh uh some questions not
+
+00:02:48.949 --> 00:02:48.959
+if you have uh uh some questions not
+
+00:02:48.959 --> 00:02:51.270
+if you have uh uh some questions not strictly related to the topic but uh
+
+00:02:51.270 --> 00:02:51.280
+strictly related to the topic but uh
+
